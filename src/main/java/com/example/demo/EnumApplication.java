@@ -37,6 +37,6 @@ public class EnumApplication {
 			}
 		}
 		System.out.println("\n\n");
+		sc.close();
 	}
-
 }
